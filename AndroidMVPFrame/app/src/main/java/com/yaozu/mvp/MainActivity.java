@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.yaozu.mvp.Test.OkHttpTestActivity;
+import com.yaozu.mvp.test.OkHttpTestActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 

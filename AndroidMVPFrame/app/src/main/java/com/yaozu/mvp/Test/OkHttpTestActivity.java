@@ -1,4 +1,4 @@
-package com.yaozu.mvp.Test;
+package com.yaozu.mvp.test;
 
 import android.graphics.Bitmap;
 import android.os.Bundle;

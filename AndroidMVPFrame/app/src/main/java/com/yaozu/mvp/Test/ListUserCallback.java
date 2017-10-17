@@ -1,4 +1,4 @@
-package com.yaozu.mvp.Test;
+package com.yaozu.mvp.test;
 
 import com.google.gson.Gson;
 import com.yaozu.base.library.okhttp.callback.Callback;

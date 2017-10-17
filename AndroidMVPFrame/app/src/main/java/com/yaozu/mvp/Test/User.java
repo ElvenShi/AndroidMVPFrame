@@ -1,4 +1,4 @@
-package com.yaozu.mvp.Test;
+package com.yaozu.mvp.test;
 
 public class User {
 
