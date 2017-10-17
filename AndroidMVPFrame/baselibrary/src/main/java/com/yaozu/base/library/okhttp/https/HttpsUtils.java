@@ -25,7 +25,7 @@ import javax.net.ssl.X509TrustManager;
  * @author : Shiyaozu
  * @version : [V1.0.0]
  * @date : 2017/9/30 0030
- * @desc : []
+ * @desc : [Https封装]
  */
 public class HttpsUtils {
     public static class SSLParams {

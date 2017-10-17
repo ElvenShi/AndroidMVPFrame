@@ -23,3 +23,36 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+## 混淆
+
+#okhttputils
+-dontwarn com.yaozu.base.library.okhttp.**
+-keep com.yaozu.base.library.okhttp.**{*;}
+
+
+#okhttp
+#-dontwarn okhttp3.**
+#-keep class okhttp3.**{*;}
+#okio
+#-dontwarn okio.**
+#-keep class okio.**{*;}
+
+#okhttp,okio
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-dontwarn javax.annotation.**
+# A resource is loaded with a relative path so the package of this class must be preserved.
+-keepnames class okhttp3.internal.publicsuffix.PublicSuffixDatabase
+
+# PersistentCookieJar
+-dontwarn com.franmontiel.persistentcookiejar.**
+-keep class com.franmontiel.persistentcookiejar.**
+-keepclassmembers class * implements java.io.Serializable {
+    static final long serialVersionUID;
+    private static final java.io.ObjectStreamField[] serialPersistentFields;
+    !static !transient <fields>;
+    private void writeObject(java.io.ObjectOutputStream);
+    private void readObject(java.io.ObjectInputStream);
+    java.lang.Object writeReplace();
+    java.lang.Object readResolve();
+}
