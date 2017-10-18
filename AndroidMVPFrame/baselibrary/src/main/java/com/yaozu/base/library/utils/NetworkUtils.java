@@ -64,6 +64,23 @@ public class NetworkUtils {
     }
 
     /**
+     * 判断当前网络是否是移动数据网络.
+     *
+     * @param context the context
+     * @return boolean
+     */
+    public static boolean isMobile(Context context) {
+        ConnectivityManager connectivityManager = (ConnectivityManager) context
+                .getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo activeNetInfo = connectivityManager.getActiveNetworkInfo();
+        if (activeNetInfo != null
+                && activeNetInfo.getType() == ConnectivityManager.TYPE_MOBILE) {
+            return true;
+        }
+        return false;
+    }
+
+    /**
      * 当前网络是不是wifi
      * @param context
      * @return

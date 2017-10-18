@@ -1,6 +1,7 @@
 package com.yaozu.mvp;
 
-import android.app.Application;
+import android.content.Context;
+import android.support.multidex.MultiDexApplication;
 
 import com.franmontiel.persistentcookiejar.ClearableCookieJar;
 import com.franmontiel.persistentcookiejar.PersistentCookieJar;
@@ -10,6 +11,7 @@ import com.yaozu.base.library.ApplicationContext;
 import com.yaozu.base.library.okhttp.OkHttpUtils;
 import com.yaozu.base.library.okhttp.https.HttpsUtils;
 import com.yaozu.base.library.okhttp.log.LoggerInterceptor;
+import com.yaozu.base.library.utils.ProcessUtils;
 
 import java.util.concurrent.TimeUnit;
 
@@ -24,8 +26,12 @@ import okhttp3.OkHttpClient;
  * @date : 2017/10/17 0017
  * @desc : [相关类/方法]
  */
+public class MyApplication extends MultiDexApplication {
+    private static MyApplication instance;
 
-public class MyApplication extends Application {
+    public static Context getContext(){
+        return instance;
+    }
     private String CER_12306 = "-----BEGIN CERTIFICATE-----\n" +
             "MIICmjCCAgOgAwIBAgIIbyZr5/jKH6QwDQYJKoZIhvcNAQEFBQAwRzELMAkGA1UEBhMCQ04xKTAn\n" +
             "BgNVBAoTIFNpbm9yYWlsIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MQ0wCwYDVQQDEwRTUkNBMB4X\n" +
@@ -45,10 +51,11 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-
-        initOkHttp();
-
-        ApplicationContext.getInstance().initContext(this);
+        if (ProcessUtils.isMainProcess(this)){
+            instance = this;
+            initOkHttp();
+            ApplicationContext.getInstance().initContext(this);
+        }
     }
 
     /**

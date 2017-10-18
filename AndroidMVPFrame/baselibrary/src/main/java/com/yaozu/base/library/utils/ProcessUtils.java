@@ -13,6 +13,7 @@ import java.util.List;
  */
 
 public class ProcessUtils {
+
     public ProcessUtils(){
         throw new UnsupportedOperationException("not support operation");
     }
@@ -21,7 +22,7 @@ public class ProcessUtils {
      *
      * @return
      */
-    private static boolean isMainProcess(Context context) {
+    public static boolean isMainProcess(Context context) {
         ActivityManager am = ((ActivityManager) context.getSystemService(Context.ACTIVITY_SERVICE));
         List<ActivityManager.RunningAppProcessInfo> processInfos = am.getRunningAppProcesses();
         String mainProcessName = context.getPackageName();
@@ -40,7 +41,7 @@ public class ProcessUtils {
      * @param context
      * @return
      */
-    private static String getProcessName(Context context) {
+    public static String getProcessName(Context context) {
         int pid = android.os.Process.myPid();
         ActivityManager am = (ActivityManager) context
                 .getSystemService(Context.ACTIVITY_SERVICE);

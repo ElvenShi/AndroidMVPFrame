@@ -1,6 +1,7 @@
-package com.yaozu.base.library.utils.system;
+package com.yaozu.base.library.utils.system.statusbar;
 
 import android.app.Activity;
+import android.content.Context;
 import android.os.Build;
 import android.support.annotation.IntDef;
 
@@ -66,5 +67,25 @@ public class StatusBarHelper {
 //        else if (type == ANDROID_M) {
 //            new AndroidMHelper().setStatusBarLightMode(activity, isFontColorDark);
 //        }
+    }
+
+    /**
+     * 获得状态栏的高度，通过反射
+     *
+     * @param context
+     * @return 如果为－1则获取失败
+     */
+    public static int getStatusHeight(Context context) {
+        int statusHeight = -1;
+        try {
+            Class<?> clazz = Class.forName("com.android.internal.R$dimen");
+            Object object = clazz.newInstance();
+            int height = Integer.parseInt(clazz.getField("status_bar_height")
+                    .get(object).toString());
+            statusHeight = context.getResources().getDimensionPixelSize(height);
+        } catch (Exception e) {
+            // e.printStackTrace();
+        }
+        return statusHeight;
     }
 }

@@ -10,9 +10,13 @@ def getPropInt(def key) {
     return Integer.valueOf((String) getProperty(key));
 }
 
+def getPropString(def key){
+    return (String) getProperty(key);
+}
+
 android {
     compileSdkVersion getPropInt("TARGET_SDK_VERSION")
-    buildToolsVersion '25.0.2'
+    buildToolsVersion getPropString("BUILD_TOOLS_VERSION")
     defaultConfig {
         applicationId "com.yaozu.mvp"
         minSdkVersion getPropInt("MIN_SDK_VERSION")
@@ -22,7 +26,7 @@ android {
 
         ndk {
             //选择要添加的对应cpu类型的.so库。如果有对应的so文件则依次添加
-            abiFilters 'armeabi', 'armeabi-v7a', 'armeabi-v8a', 'x86', 'x86_64', 'mips', 'mips64'
+//            abiFilters 'armeabi', 'armeabi-v7a', 'armeabi-v8a', 'x86', 'x86_64', 'mips', 'mips64'
         }
 
         multiDexEnabled true
@@ -73,6 +77,20 @@ android {
 
         }
     }
+//    sourceSets { // 指定jni路径
+//        main {
+//            jniLibs.srcDirs = ['libs']
+//        }
+//    }
+//
+//    compileOptions { // 指定jdk版本
+//        sourceCompatibility JavaVersion.VERSION_1_7
+//        targetCompatibility JavaVersion.VERSION_1_7
+//    }
+    packagingOptions { //过滤包中冲突的文件
+//        exclude 'META-INF/DEPENDENCIES.txt'
+
+    }
 }
 
 dependencies {
@@ -80,10 +98,13 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
+    testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:multidex:1.0.1'
     compile project(':baselibrary')
-    //使用okhttp和httpURLConnection加载网页内容和图片
-    compile 'com.squareup.okhttp3:okhttp-urlconnection:3.9.0'
+    compile 'org.greenrobot:eventbus:3.0.0'
+
+    compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    compile 'io.reactivex.rxjava2:rxjava:2.1.5'
 }

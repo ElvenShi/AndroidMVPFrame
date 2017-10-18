@@ -29,6 +29,9 @@
 -dontwarn com.yaozu.base.library.okhttp.**
 -keep com.yaozu.base.library.okhttp.**{*;}
 
+# 整个baselibrary
+-dontwarn com.yaozu.base.library.**
+-keep com.yaozu.base.library.**{*;}
 
 #okhttp
 #-dontwarn okhttp3.**
@@ -55,4 +58,21 @@
     private void readObject(java.io.ObjectInputStream);
     java.lang.Object writeReplace();
     java.lang.Object readResolve();
+}
+
+# Gson
+-keep class com.google.gson.stream.** { *; }
+-keepattributes EnclosingMethod
+
+# RxJava RxAndroid
+-dontwarn sun.misc.**
+-keepclassmembers class rx.internal.util.unsafe.*ArrayQueue*Field* {
+    long producerIndex;
+    long consumerIndex;
+}
+-keepclassmembers class rx.internal.util.unsafe.BaseLinkedQueueProducerNodeRef {
+    rx.internal.util.atomic.LinkedQueueNode producerNode;
+}
+-keepclassmembers class rx.internal.util.unsafe.BaseLinkedQueueConsumerNodeRef {
+    rx.internal.util.atomic.LinkedQueueNode consumerNode;
 }

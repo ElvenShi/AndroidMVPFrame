@@ -1,6 +1,6 @@
 package com.yaozu.base.library;
 
-import android.app.Application;
+import android.content.Context;
 
 /**
  * @author : Shiyaozu
@@ -10,7 +10,7 @@ import android.app.Application;
  */
 
 public class ApplicationContext {
-    private Application context;
+    private Context context;
     private static final ApplicationContext INSTANCE = new ApplicationContext();
 
     private ApplicationContext() {
@@ -21,14 +21,14 @@ public class ApplicationContext {
         return INSTANCE;
     }
 
-    public void initContext(Application context) {
+    public void initContext(Context context) {
         if (context == null){
             return;
         }
         this.context = context;
     }
 
-    public Application getContext() {
+    public Context getContext() {
         return context;
     }
 }

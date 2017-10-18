@@ -1,4 +1,4 @@
-package com.yaozu.base.library.utils.system;
+package com.yaozu.base.library.utils.system.statusbar;
 
 import android.app.Activity;
 import android.view.Window;

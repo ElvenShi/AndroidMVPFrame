@@ -1,4 +1,4 @@
-package com.yaozu.base.library.utils;
+package com.yaozu.base.library.utils.system;
 
 import android.content.Context;
 import android.content.Intent;
