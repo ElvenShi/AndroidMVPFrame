@@ -1,5 +1,11 @@
 package com.yaozu.base.library.okhttp;
 
+import android.content.Context;
+
+import com.franmontiel.persistentcookiejar.ClearableCookieJar;
+import com.franmontiel.persistentcookiejar.PersistentCookieJar;
+import com.franmontiel.persistentcookiejar.cache.SetCookieCache;
+import com.franmontiel.persistentcookiejar.persistence.SharedPrefsCookiePersistor;
 import com.yaozu.base.library.okhttp.builder.GetBuilder;
 import com.yaozu.base.library.okhttp.builder.HeadBuilder;
 import com.yaozu.base.library.okhttp.builder.OtherRequestBuilder;
@@ -7,11 +13,17 @@ import com.yaozu.base.library.okhttp.builder.PostFileBuilder;
 import com.yaozu.base.library.okhttp.builder.PostFormBuilder;
 import com.yaozu.base.library.okhttp.builder.PostStringBuilder;
 import com.yaozu.base.library.okhttp.callback.Callback;
+import com.yaozu.base.library.okhttp.https.HttpsUtils;
+import com.yaozu.base.library.okhttp.log.LoggerInterceptor;
 import com.yaozu.base.library.okhttp.request.RequestCall;
 import com.yaozu.base.library.okhttp.utils.Platform;
 
 import java.io.IOException;
 import java.util.concurrent.Executor;
+import java.util.concurrent.TimeUnit;
+
+import javax.net.ssl.HostnameVerifier;
+import javax.net.ssl.SSLSession;
 
 import okhttp3.Call;
 import okhttp3.OkHttpClient;
@@ -24,12 +36,50 @@ import okhttp3.Response;
  * @desc : [okhttp入口调用类]
  */
 public class OkHttpUtils {
-    public static final long DEFAULT_MILLISECONDS = 10_000L;
+
+    /**
+     * 连接超时
+     */
+    public static final long CONNECT_TIMEOUT = 15_000L;
+    /**
+     * 读超时
+     */
+    public static final long READ_TIMEOUT = 15_000L;
+    /**
+     * 写超时
+     */
+    public static final long WRITE_TIMEOUT = 15_000L;
+
     private volatile static OkHttpUtils mInstance;
     private OkHttpClient mOkHttpClient;
     private Platform mPlatform;
 
-    public OkHttpUtils(OkHttpClient okHttpClient) {
+    /**
+     * 创建OkHttpClient
+     * @param context
+     * @return
+     */
+    public static OkHttpClient createOkHttpClient(Context context){
+        ClearableCookieJar cookieJar1 = new PersistentCookieJar(new SetCookieCache(), new SharedPrefsCookiePersistor(context));
+        HttpsUtils.SSLParams sslParams = HttpsUtils.getSslSocketFactory(null, null, null);
+        OkHttpClient okHttpClient = new OkHttpClient.Builder()
+                .connectTimeout(CONNECT_TIMEOUT, TimeUnit.MILLISECONDS)
+                .readTimeout(READ_TIMEOUT, TimeUnit.MILLISECONDS)
+                .writeTimeout(WRITE_TIMEOUT,TimeUnit.MILLISECONDS)
+                .addInterceptor(new LoggerInterceptor("TAG"))
+                .cookieJar(cookieJar1)
+                .hostnameVerifier(new HostnameVerifier() {
+                    @Override
+                    public boolean verify(String hostname, SSLSession session) {
+                        return true;
+                    }
+                })
+                .sslSocketFactory(sslParams.sSLSocketFactory, sslParams.trustManager)
+                .build();
+        return okHttpClient;
+    }
+
+    private OkHttpUtils(OkHttpClient okHttpClient) {
         if (okHttpClient == null) {
             mOkHttpClient = new OkHttpClient();
         } else {
@@ -39,10 +89,15 @@ public class OkHttpUtils {
         mPlatform = Platform.get();
     }
 
-
-    public static OkHttpUtils initClient(OkHttpClient okHttpClient) {
+    /**
+     * 初始化配置
+     * @param context
+     * @return
+     */
+    public static OkHttpUtils initClient(Context context) {
         if (mInstance == null) {
             synchronized (OkHttpUtils.class) {
+                OkHttpClient okHttpClient = createOkHttpClient(context);
                 if (mInstance == null) {
                     mInstance = new OkHttpUtils(okHttpClient);
                 }

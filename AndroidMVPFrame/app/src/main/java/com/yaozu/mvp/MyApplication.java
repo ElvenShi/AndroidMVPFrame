@@ -3,22 +3,9 @@ package com.yaozu.mvp;
 import android.content.Context;
 import android.support.multidex.MultiDexApplication;
 
-import com.franmontiel.persistentcookiejar.ClearableCookieJar;
-import com.franmontiel.persistentcookiejar.PersistentCookieJar;
-import com.franmontiel.persistentcookiejar.cache.SetCookieCache;
-import com.franmontiel.persistentcookiejar.persistence.SharedPrefsCookiePersistor;
 import com.yaozu.base.library.ApplicationContext;
 import com.yaozu.base.library.okhttp.OkHttpUtils;
-import com.yaozu.base.library.okhttp.https.HttpsUtils;
-import com.yaozu.base.library.okhttp.log.LoggerInterceptor;
 import com.yaozu.base.library.utils.ProcessUtils;
-
-import java.util.concurrent.TimeUnit;
-
-import javax.net.ssl.HostnameVerifier;
-import javax.net.ssl.SSLSession;
-
-import okhttp3.OkHttpClient;
 
 /**
  * @author : Shiyaozu
@@ -53,8 +40,8 @@ public class MyApplication extends MultiDexApplication {
         super.onCreate();
         if (ProcessUtils.isMainProcess(this)){
             instance = this;
-            initOkHttp();
             ApplicationContext.getInstance().initContext(this);
+            OkHttpUtils.initClient(this);
         }
     }
 
@@ -62,23 +49,23 @@ public class MyApplication extends MultiDexApplication {
      * 初始化okhttp
      */
     private void initOkHttp() {
-        ClearableCookieJar cookieJar1 = new PersistentCookieJar(new SetCookieCache(), new SharedPrefsCookiePersistor(getApplicationContext()));
-        HttpsUtils.SSLParams sslParams = HttpsUtils.getSslSocketFactory(null, null, null);
-//        CookieJarImpl cookieJar1 = new CookieJarImpl(new MemoryCookieStore());
-        OkHttpClient okHttpClient = new OkHttpClient.Builder()
-                .connectTimeout(10000L, TimeUnit.MILLISECONDS)
-                .readTimeout(10000L, TimeUnit.MILLISECONDS)
-                .addInterceptor(new LoggerInterceptor("TAG"))
-                .cookieJar(cookieJar1)
-                .hostnameVerifier(new HostnameVerifier() {
-                    @Override
-                    public boolean verify(String hostname, SSLSession session) {
-                        return true;
-                    }
-                })
-                .sslSocketFactory(sslParams.sSLSocketFactory, sslParams.trustManager)
-                .build();
-        OkHttpUtils.initClient(okHttpClient);
+//        ClearableCookieJar cookieJar1 = new PersistentCookieJar(new SetCookieCache(), new SharedPrefsCookiePersistor(getApplicationContext()));
+//        HttpsUtils.SSLParams sslParams = HttpsUtils.getSslSocketFactory(null, null, null);
+////        CookieJarImpl cookieJar1 = new CookieJarImpl(new MemoryCookieStore());
+//        OkHttpClient okHttpClient = new OkHttpClient.Builder()
+//                .connectTimeout(10000L, TimeUnit.MILLISECONDS)
+//                .readTimeout(10000L, TimeUnit.MILLISECONDS)
+//                .addInterceptor(new LoggerInterceptor("TAG"))
+//                .cookieJar(cookieJar1)
+//                .hostnameVerifier(new HostnameVerifier() {
+//                    @Override
+//                    public boolean verify(String hostname, SSLSession session) {
+//                        return true;
+//                    }
+//                })
+//                .sslSocketFactory(sslParams.sSLSocketFactory, sslParams.trustManager)
+//                .build();
+//        OkHttpUtils.initClient(okHttpClient);
     }
 
 }
