@@ -52,9 +52,9 @@ public class RequestCall {
         request = generateRequest(callback);
 
         if (readTimeOut > 0 || writeTimeOut > 0 || connTimeOut > 0) {
-            readTimeOut = readTimeOut > 0 ? readTimeOut : OkHttpUtils.DEFAULT_MILLISECONDS;
-            writeTimeOut = writeTimeOut > 0 ? writeTimeOut : OkHttpUtils.DEFAULT_MILLISECONDS;
-            connTimeOut = connTimeOut > 0 ? connTimeOut : OkHttpUtils.DEFAULT_MILLISECONDS;
+            readTimeOut = readTimeOut > 0 ? readTimeOut : OkHttpUtils.READ_TIMEOUT;
+            writeTimeOut = writeTimeOut > 0 ? writeTimeOut : OkHttpUtils.WRITE_TIMEOUT;
+            connTimeOut = connTimeOut > 0 ? connTimeOut : OkHttpUtils.CONNECT_TIMEOUT;
 
             clone = OkHttpUtils.getInstance().getOkHttpClient().newBuilder()
                     .readTimeout(readTimeOut, TimeUnit.MILLISECONDS)

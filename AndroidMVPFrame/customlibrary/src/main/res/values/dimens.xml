@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="picker_default_text_size">12sp</dimen>
+    <dimen name="picker_toolbar_height">40dp</dimen>
+    <dimen name="picker_dialog_height">190dp</dimen>
+    <dimen name="textview_default_padding">5dp</dimen>
+    <dimen name="picker_line_width">1dp</dimen>
+    <dimen name="picker_line_mar">15dp</dimen>
+    <dimen name="picker_height">230dp</dimen>
+    <dimen name="space_35">35dp</dimen>
+    <dimen name="space_18">18dp</dimen>
+    <dimen name="space_5">5dp</dimen>
+    <dimen name="ms__padding_left">24dp</dimen>
+    <dimen name="ms__padding_top">12dp</dimen>
+    <dimen name="ms__item_height">48dp</dimen>
+    <dimen name="ms__popup_padding_left">24dp</dimen>
+    <dimen name="ms__popup_padding_top">12dp</dimen>
+</resources>

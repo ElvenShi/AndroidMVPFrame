@@ -1,6 +1,7 @@
 package com.yaozu.mvp;
 
 import android.content.Context;
+import android.os.StrictMode;
 import android.support.multidex.MultiDexApplication;
 
 import com.yaozu.base.library.ApplicationContext;
@@ -15,10 +16,20 @@ import com.yaozu.base.library.utils.ProcessUtils;
  */
 public class MyApplication extends MultiDexApplication {
     private static MyApplication instance;
+    /**
+     * 当前activity名称
+     */
+    public static String currentActivityName = "";
 
-    public static Context getContext(){
+    /**
+     * 是否经历过loading
+     */
+    private static boolean hasLoading = true;
+
+    public static Context getContext() {
         return instance;
     }
+
     private String CER_12306 = "-----BEGIN CERTIFICATE-----\n" +
             "MIICmjCCAgOgAwIBAgIIbyZr5/jKH6QwDQYJKoZIhvcNAQEFBQAwRzELMAkGA1UEBhMCQ04xKTAn\n" +
             "BgNVBAoTIFNpbm9yYWlsIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MQ0wCwYDVQQDEwRTUkNBMB4X\n" +
@@ -38,34 +49,38 @@ public class MyApplication extends MultiDexApplication {
     @Override
     public void onCreate() {
         super.onCreate();
-        if (ProcessUtils.isMainProcess(this)){
+        if (ProcessUtils.isMainProcess(this)) {
             instance = this;
+            // 将app context 传递给baselibrary
             ApplicationContext.getInstance().initContext(this);
+            // 初始化OkHttp配置
             OkHttpUtils.initClient(this);
         }
     }
 
-    /**
-     * 初始化okhttp
-     */
-    private void initOkHttp() {
-//        ClearableCookieJar cookieJar1 = new PersistentCookieJar(new SetCookieCache(), new SharedPrefsCookiePersistor(getApplicationContext()));
-//        HttpsUtils.SSLParams sslParams = HttpsUtils.getSslSocketFactory(null, null, null);
-////        CookieJarImpl cookieJar1 = new CookieJarImpl(new MemoryCookieStore());
-//        OkHttpClient okHttpClient = new OkHttpClient.Builder()
-//                .connectTimeout(10000L, TimeUnit.MILLISECONDS)
-//                .readTimeout(10000L, TimeUnit.MILLISECONDS)
-//                .addInterceptor(new LoggerInterceptor("TAG"))
-//                .cookieJar(cookieJar1)
-//                .hostnameVerifier(new HostnameVerifier() {
-//                    @Override
-//                    public boolean verify(String hostname, SSLSession session) {
-//                        return true;
-//                    }
-//                })
-//                .sslSocketFactory(sslParams.sSLSocketFactory, sslParams.trustManager)
-//                .build();
-//        OkHttpUtils.initClient(okHttpClient);
+    public static boolean isHasLoading() {
+        return hasLoading;
     }
 
+    public static void setHasLoading(boolean hasLoading) {
+        MyApplication.hasLoading = hasLoading;
+    }
+
+    /**
+     * 启用严格模式
+     *
+     * @Creator shiyaozu
+     */
+    private void initStrictMode() {
+        if (BuildConfig.DEBUG) {
+            StrictMode.setThreadPolicy(new StrictMode.ThreadPolicy.Builder().
+                    detectAll().
+                    penaltyLog().
+                    build());
+            StrictMode.setVmPolicy(new StrictMode.VmPolicy.Builder().
+                    detectAll().
+                    penaltyLog().
+                    build());
+        }
+    }
 }

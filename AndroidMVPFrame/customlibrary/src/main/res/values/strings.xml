@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <!--refresh-->
+    <string name="pull_refresh">下拉刷新</string>
+
+    <!--time picker dialog-->
+    <string name="picker_sure">确定</string>
+    <string name="picker_cancel">取消</string>
+    <string name="picker_title">选择时间</string>
+    <string name="picker_year">年</string>
+    <string name="picker_month">月</string>
+    <string name="picker_day">日</string>
+    <string name="picker_hour">时</string>
+    <string name="picker_minute">分</string>
+
+
+    <string name="loading">加载中...</string>
+    <string name="cancel">取消</string>
+</resources>

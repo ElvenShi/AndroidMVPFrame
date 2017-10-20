@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="timetimepicker_default_text_color">#999999</color>
+    <color name="timepicker_toolbar_bg">#e60012</color>
+    <color name="timepicker_dialog_bg">#80000000</color>
+    <color name="timepicker_line">#e8e8e8</color>
+
+    <!--浮层 不透明度-->
+    <color name="transparent_half">#b0000000</color>
+    <color name="no_opacity_100">#FF000000</color>
+    <color name="no_opacity_95">#F2000000</color>
+    <color name="no_opacity_90">#E6000000</color>
+    <color name="no_opacity_85">#D9000000</color>
+    <color name="no_opacity_80">#CC000000</color>
+    <color name="no_opacity_75">#BF000000</color>
+    <color name="no_opacity_70">#B3000000</color>
+    <color name="no_opacity_65">#A6000000</color>
+    <color name="no_opacity_60">#99000000</color>
+    <color name="no_opacity_55">#8C000000</color>
+    <color name="no_opacity_50">#80000000</color>
+    <color name="no_opacity_45">#73000000</color>
+    <color name="no_opacity_40">#66000000</color>
+    <color name="no_opacity_35">#59000000</color>
+    <color name="no_opacity_30">#4D000000</color>
+    <color name="no_opacity_25">#40000000</color>no_opacity_30
+    <color name="no_opacity_20">#33000000</color>
+    <color name="no_opacity_15">#26000000</color>
+    <color name="no_opacity_10">#1A000000</color>
+    <color name="no_opacity_5">#0D000000</color>
+    <color name="no_opacity_0">#00000000</color>
+
+    <color name="main_color">#fc6264</color>
+    <color name="btn_bg_color">#fc6264</color>
+    <color name="coupon_color">#fc6264</color>
+    <color name="app_common_unread_color">#ff3333</color>
+    <color name="app_black_txt">#404743</color>
+    <color name="app_orange_txt">#ffa500</color>
+    <color name="app_list_bg_color">#eeeeee</color>
+    <color name="gray">#eeeeee</color>
+    <color name="main_page_bg_color">#fc6264</color>
+
+</resources>
