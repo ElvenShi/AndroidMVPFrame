@@ -1,0 +1,31 @@
+apply plugin: 'com.android.library'
+def getPropString(def key) {
+    return (String) getProperty(key);
+}
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 25
+    }
+
+    dataBinding {
+        enabled = true
+    }
+}
+
+dependencies {
+    // android support
+    compile 'com.android.support:support-v4:'+getPropString("SUPPORT_VERSION")
+    compile 'com.android.support:appcompat-v7:'+getPropString("SUPPORT_VERSION")
+    compile 'com.android.support:design:'+getPropString("SUPPORT_VERSION")
+    compile 'com.android.support:recyclerview-v7:'+getPropString("SUPPORT_VERSION")
+    compile 'com.android.support:cardview-v7:'+getPropString("SUPPORT_VERSION")
+    compile 'com.android.support.constraint:constraint-layout:'+getPropString("SUPPORT_CONSTRAINT_LAYOUT")
+    compile 'com.android.support:multidex:'+getPropString("SUPPORT_MULTIDEX")
+}
+
+// gradle uploadArchives
+//apply from: 'https://raw.githubusercontent.com/bingoogolapple/PublishAar/master/central-publish.gradle'

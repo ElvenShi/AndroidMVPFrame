@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_black_txt">#404743</color>
+    <color name="app_common_unread_color">#ff3333</color>
+    <color name="app_list_bg_color">#eeeeee</color>
+    <color name="app_orange_txt">#ffa500</color>
+    <color name="btn_bg_color">#fc6264</color>
+    <color name="coupon_color">#fc6264</color>
+    <color name="gray">#eeeeee</color>
+    <color name="main_color">#fc6264</color>
+    <color name="main_page_bg_color">#fc6264</color>
+    <color name="no_opacity_0">#00000000</color>
+    <color name="no_opacity_10">#1A000000</color>
+    <color name="no_opacity_100">#FF000000</color>
+    <color name="no_opacity_15">#26000000</color>
+    <color name="no_opacity_20">#33000000</color>
+    <color name="no_opacity_25">#40000000</color>
+    <color name="no_opacity_30">#4D000000</color>
+    <color name="no_opacity_35">#59000000</color>
+    <color name="no_opacity_40">#66000000</color>
+    <color name="no_opacity_45">#73000000</color>
+    <color name="no_opacity_5">#0D000000</color>
+    <color name="no_opacity_50">#80000000</color>
+    <color name="no_opacity_55">#8C000000</color>
+    <color name="no_opacity_60">#99000000</color>
+    <color name="no_opacity_65">#A6000000</color>
+    <color name="no_opacity_70">#B3000000</color>
+    <color name="no_opacity_75">#BF000000</color>
+    <color name="no_opacity_80">#CC000000</color>
+    <color name="no_opacity_85">#D9000000</color>
+    <color name="no_opacity_90">#E6000000</color>
+    <color name="no_opacity_95">#F2000000</color>
+    <color name="timepicker_dialog_bg">#80000000</color>
+    <color name="timepicker_line">#e8e8e8</color>
+    <color name="timepicker_toolbar_bg">#e60012</color>
+    <color name="timetimepicker_default_text_color">#999999</color>
+    <color name="transparent_half">#b0000000</color>
+    <declare-styleable name="Banner"><attr format="integer" name="delay_time"/><attr format="integer" name="scroll_time"/><attr format="boolean" name="is_auto_play"/><attr format="color|reference" name="title_background"/><attr format="color" name="title_textcolor"/><attr format="dimension" name="title_textsize"/><attr format="dimension" name="title_height"/><attr format="dimension" name="indicator_width"/><attr format="dimension" name="indicator_height"/><attr format="dimension" name="indicator_margin"/><attr format="reference" name="indicator_drawable_selected"/><attr format="reference" name="indicator_drawable_unselected"/><attr format="reference" name="layout_id"/><attr format="enum" name="image_scale_type">
+            <enum name="center" value="0"/>
+            <enum name="center_crop" value="1"/>
+            <enum name="center_inside" value="2"/>
+            <enum name="fit_center" value="3"/>
+            <enum name="fit_end" value="4"/>
+            <enum name="fit_start" value="5"/>
+            <enum name="fit_xy" value="6"/>
+            <enum name="matrix" value="7"/>
+        </attr></declare-styleable>
+    <declare-styleable name="MaterialSpinner"><attr format="color" name="ms_arrow_tint"/><attr format="boolean" name="ms_hide_arrow"/><attr format="color" name="ms_background_color"/><attr format="color" name="ms_text_color"/><attr format="dimension" name="ms_dropdown_max_height"/><attr format="dimension" name="ms_dropdown_height">
+            <enum name="fill_parent" value="-1"/>
+            <enum name="match_parent" value="-1"/>
+            <enum name="wrap_content" value="-2"/>
+        </attr></declare-styleable>
+    <dimen name="ms__item_height">48dp</dimen>
+    <dimen name="ms__padding_left">24dp</dimen>
+    <dimen name="ms__padding_top">12dp</dimen>
+    <dimen name="ms__popup_padding_left">24dp</dimen>
+    <dimen name="ms__popup_padding_top">12dp</dimen>
+    <dimen name="picker_default_text_size">12sp</dimen>
+    <dimen name="picker_dialog_height">190dp</dimen>
+    <dimen name="picker_height">230dp</dimen>
+    <dimen name="picker_line_mar">15dp</dimen>
+    <dimen name="picker_line_width">1dp</dimen>
+    <dimen name="picker_toolbar_height">40dp</dimen>
+    <dimen name="space_18">18dp</dimen>
+    <dimen name="space_35">35dp</dimen>
+    <dimen name="space_5">5dp</dimen>
+    <dimen name="textview_default_padding">5dp</dimen>
+    <item name="bannerContainer" type="id"/>
+    <item name="bannerTitle" type="id"/>
+    <item name="bannerViewPager" type="id"/>
+    <item name="circleIndicator" type="id"/>
+    <item name="indicatorInside" type="id"/>
+    <item name="numIndicator" type="id"/>
+    <item name="numIndicatorInside" type="id"/>
+    <item name="statusbarutil_fake_status_bar_view" type="id"/>
+    <item name="statusbarutil_translucent_view" type="id"/>
+    <item name="titleView" type="id"/>
+    <string name="cancel">取消</string>
+    <string name="loading">加载中...</string>
+    <string name="picker_cancel">取消</string>
+    <string name="picker_day">日</string>
+    <string name="picker_hour">时</string>
+    <string name="picker_minute">分</string>
+    <string name="picker_month">月</string>
+    <string name="picker_sure">确定</string>
+    <string name="picker_title">选择时间</string>
+    <string name="picker_year">年</string>
+    <string name="pull_refresh">下拉刷新</string>
+    <style name="AlertAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+    <style mce_bogus="1" name="AnimationPicker" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_bottom</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="DefineprogressBarStyleSmall" parent="android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/progress</item>
+        <item name="android:indeterminateBehavior">repeat</item>
+        <item name="android:indeterminateDuration">1000</item>
+        <item name="android:indeterminateOnly">true</item>
+    </style>
+    <style name="Dialog.NoTitle" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/AnimationPicker</item>
+    </style>
+    <style name="DialogTheme" parent="@style/Theme.AppCompat.Dialog">
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/alert_dialog_bg</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="FilterDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent_half</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/bottomUpStyle</item>
+    </style>
+    <style name="MTDialog" parent="@style/Theme.AppCompat.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="TMChatConnectStatusPBStyleSmall" parent="android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/chat_status_connect_progress</item>
+        <item name="android:indeterminateBehavior">repeat</item>
+        <item name="android:indeterminateDuration">1000</item>
+        <item name="android:indeterminateOnly">true</item>
+    </style>
+    <style name="TMDialogWhenLarge" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/fadeStyle</item>
+        <item name="android:windowBackground">@color/no_opacity_30</item>
+        <item name="android:windowFrame">@null</item>  <!--Dialog的windowFrame框为无-->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <style name="bottomUpStyle" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/dialog_enter_from_bottom</item>
+        <item name="@android:windowExitAnimation">@anim/dialog_exit_to_bottom</item>
+    </style>
+    <style name="fadeStyle" parent="android:style/Animation">
+        <item name="@android:windowEnterAnimation">@anim/activity_fade_in</item>
+        <item name="@android:windowExitAnimation">@anim/activity_fade_out</item>
+    </style>
+    <style name="setting_clean_cache_progressbar" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:progressDrawable">@drawable/setting_clear_progressbar_bg</item>
+        <item name="android:max">100</item>
+        <item name="android:progress">0</item>
+    </style>
+    <style name="unread_count_style">
+        <item name="android:background">@drawable/unread_round</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">10dp</item>
+    </style>
+</resources>

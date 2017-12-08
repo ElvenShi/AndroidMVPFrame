@@ -6,6 +6,7 @@ import com.franmontiel.persistentcookiejar.ClearableCookieJar;
 import com.franmontiel.persistentcookiejar.PersistentCookieJar;
 import com.franmontiel.persistentcookiejar.cache.SetCookieCache;
 import com.franmontiel.persistentcookiejar.persistence.SharedPrefsCookiePersistor;
+import com.yaozu.base.library.ApplicationContext;
 import com.yaozu.base.library.okhttp.builder.GetBuilder;
 import com.yaozu.base.library.okhttp.builder.HeadBuilder;
 import com.yaozu.base.library.okhttp.builder.OtherRequestBuilder;
@@ -33,10 +34,9 @@ import okhttp3.Response;
  * @author : Shiyaozu
  * @version : [V1.0.0]
  * @date : 2017/9/30 0030
- * @desc : [okhttp入口调用类]
+ * @desc : [OkHttp入口调用类]
  */
 public class OkHttpUtils {
-
     /**
      * 连接超时
      */
@@ -60,6 +60,9 @@ public class OkHttpUtils {
      * @return
      */
     public static OkHttpClient createOkHttpClient(Context context){
+        if (context == null){
+            context = ApplicationContext.getInstance().getContext();
+        }
         ClearableCookieJar cookieJar1 = new PersistentCookieJar(new SetCookieCache(), new SharedPrefsCookiePersistor(context));
         HttpsUtils.SSLParams sslParams = HttpsUtils.getSslSocketFactory(null, null, null);
         OkHttpClient okHttpClient = new OkHttpClient.Builder()
@@ -85,7 +88,6 @@ public class OkHttpUtils {
         } else {
             mOkHttpClient = okHttpClient;
         }
-
         mPlatform = Platform.get();
     }
 
