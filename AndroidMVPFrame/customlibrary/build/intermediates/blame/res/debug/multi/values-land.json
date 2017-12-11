@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "outputFile": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\values-land\\values-land.xml",
+                    "file": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\values-land\\values-land.xml",
+                    "file": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\values-land\\values-land.xml",
+                    "file": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\values-land\\values-land.xml",
+                    "file": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -88,7 +88,109 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\values-land\\values-land.xml",
+                    "file": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 63,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 70,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 67,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/Elven/.android/build-cache/e5187261623276109a50dc2aa6723e6cd0ea3a78/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

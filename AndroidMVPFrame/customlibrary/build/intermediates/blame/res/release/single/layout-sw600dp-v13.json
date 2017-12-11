@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/release/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/Elven/.android/build-cache/e5187261623276109a50dc2aa6723e6cd0ea3a78/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

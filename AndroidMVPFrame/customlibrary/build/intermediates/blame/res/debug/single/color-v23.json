@@ -1,46 +1,90 @@
 [
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_spinner.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/Elven/.android/build-cache/e5187261623276109a50dc2aa6723e6cd0ea3a78/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/color-v23/abc_btn_colored_text_material.xml"
     }
 ]

@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ms__menu_down.png",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ms__menu_down.png"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ms__menu_down.png",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ms__menu_down.png"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/release/drawable-ldpi-v4/ms__menu_down.png",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/generated/res/pngs/release/drawable-ldpi/ms__menu_down.png"
     }
 ]

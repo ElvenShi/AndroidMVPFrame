@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\layout-v16\\notification_template_custom_big.xml"
     }
 ]

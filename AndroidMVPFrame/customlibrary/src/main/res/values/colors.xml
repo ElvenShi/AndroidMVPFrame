@@ -39,4 +39,5 @@
     <color name="gray">#eeeeee</color>
     <color name="main_page_bg_color">#fc6264</color>
 
+    <color name="app_divider_color">#ededed</color>
 </resources>

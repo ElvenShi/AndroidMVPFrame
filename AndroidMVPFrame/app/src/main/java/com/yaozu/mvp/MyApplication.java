@@ -1,12 +1,25 @@
 package com.yaozu.mvp;
 
 import android.content.Context;
+import android.os.Handler;
+import android.os.Looper;
 import android.os.StrictMode;
 import android.support.multidex.MultiDexApplication;
+import android.util.Log;
+import android.widget.Toast;
 
+import com.wanjian.cockroach.Cockroach;
 import com.yaozu.base.library.ApplicationContext;
 import com.yaozu.base.library.okhttp.OkHttpUtils;
+import com.yaozu.base.library.utils.DeviceUtil;
 import com.yaozu.base.library.utils.ProcessUtils;
+import com.yaozu.mvp.storage.StorageManager;
+import com.yaozu.mvp.utils.crash.CrashHandler;
+import com.yaozu.mvp.utils.log.AndroidLogAdapter;
+import com.yaozu.mvp.utils.log.LogLevel;
+import com.yaozu.mvp.utils.log.Logger;
+
+import static android.content.ContentValues.TAG;
 
 /**
  * @author : Shiyaozu
@@ -55,7 +68,34 @@ public class MyApplication extends MultiDexApplication {
             ApplicationContext.getInstance().initContext(this);
             // 初始化OkHttp配置
             OkHttpUtils.initClient(this);
+            initLogger();
         }
+    }
+
+    /**
+     * 降低Android非必要crash
+     */
+    private void installCockroach(){
+        Cockroach.install(new Cockroach.ExceptionHandler() {
+
+            // handlerException内部建议手动try{  你的异常处理逻辑  }catch(Throwable e){ } ，以防handlerException内部再次抛出异常，导致循环调用handlerException
+
+            @Override
+            public void handlerException(final Thread thread, final Throwable throwable) {
+                new Handler(Looper.getMainLooper()).post(new Runnable() {
+                    @Override
+                    public void run() {
+                        try {
+                            Log.e("AndroidRuntime","--->CockroachException:"+thread+"<---",throwable);
+                            Toast.makeText(MyApplication.this, "Exception Happend\n" + thread + "\n" + throwable.toString(),
+                                    Toast.LENGTH_SHORT).show();
+                        } catch (Throwable e) {
+
+                        }
+                    }
+                });
+            }
+        });
     }
 
     public static boolean isHasLoading() {
@@ -64,6 +104,34 @@ public class MyApplication extends MultiDexApplication {
 
     public static void setHasLoading(boolean hasLoading) {
         MyApplication.hasLoading = hasLoading;
+    }
+
+    /**
+     * 初始化数据(存在写操作,23以上需要动态申请权限，所以需要在权限申请完成后才能初始化)
+     */
+    public void initPermissionData() {
+        //设备信息
+        DeviceUtil.getInstance().initDevice(this, BuildConfig.VERSION_NAME, BuildConfig.FLAVOR);
+        //异常crash处理
+        CrashHandler.getInstance().init(this);
+        // 初始化储存管理器
+        StorageManager.getInstance().init(this);
+    }
+
+    /**
+     * 初始化日志配置
+     */
+    private void initLogger(){
+        if (BuildConfig.DEBUG){
+            Logger.init(TAG)                 // default PRETTYLOGGER or use just init()
+                    .methodCount(3)                 // default 2
+                    .hideThreadInfo()               // default shown
+                    .logLevel(LogLevel.FULL)        // default LogLevel.FULL
+                    .methodOffset(2)                // default 0
+                    .logAdapter(new AndroidLogAdapter()); //default AndroidLogAdapter
+        }else {
+            Logger.init().logLevel(LogLevel.NONE);//关闭日志打印
+        }
     }
 
     /**

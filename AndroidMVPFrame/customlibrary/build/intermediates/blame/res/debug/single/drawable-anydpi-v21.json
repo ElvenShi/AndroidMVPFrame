@@ -1,14 +1,26 @@
 [
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/drawable-anydpi-v21/ms__menu_down.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/generated/res/pngs/debug/drawable-anydpi-v21/ms__menu_down.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ms__menu_down.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ms__menu_down.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/Elven/.android/build-cache/e5187261623276109a50dc2aa6723e6cd0ea3a78/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ms__menu_down.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ms__menu_down.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/Elven/.android/build-cache/e5187261623276109a50dc2aa6723e6cd0ea3a78/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     }
 ]

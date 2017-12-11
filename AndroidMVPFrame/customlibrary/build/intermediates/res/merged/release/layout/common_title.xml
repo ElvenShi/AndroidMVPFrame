@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/common_title_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/status_bar_height" />
+
+    <RelativeLayout
+        android:id="@+id/title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/space_44"
+        android:layout_below="@id/top_view"
+        android:orientation="horizontal">
+        <!--back-->
+        <TextView
+            android:id="@+id/back"
+            android:layout_width="@dimen/space_100"
+            android:layout_height="match_parent"
+            android:drawableLeft="@drawable/icon_common_nav_bt_back"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/space_10"/>
+
+        <TextView
+            android:id="@+id/tv_right"
+            android:layout_width="@dimen/space_100"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical|right"
+            android:paddingRight="@dimen/space_10"
+            android:text="right"
+            android:textSize="@dimen/space_15" />
+
+        <!--title-->
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_toLeftOf="@id/tv_right"
+            android:layout_toRightOf="@id/back"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="标题"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/space_17" />
+
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/tv_header_bottom_diver"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/space_1"
+        android:layout_below="@id/title_layout"
+        android:background="@color/app_divider_color" />
+</RelativeLayout>

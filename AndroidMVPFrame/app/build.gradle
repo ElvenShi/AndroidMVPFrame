@@ -26,7 +26,8 @@ android {
 
         ndk {
             //选择要添加的对应cpu类型的.so库。如果有对应的so文件则依次添加
-//            abiFilters 'armeabi', 'armeabi-v7a', 'armeabi-v8a', 'x86', 'x86_64', 'mips', 'mips64'
+            //'armeabi', 'armeabi-v7a', 'armeabi-v8a', 'x86', 'x86_64', 'mips', 'mips64'
+            abiFilters 'armeabi', 'armeabi-v7a', 'armeabi-v8a', 'x86'
         }
 
         multiDexEnabled true
@@ -38,7 +39,7 @@ android {
     }
 
     dexOptions {
-        javaMaxHeapSize "4g"
+        javaMaxHeapSize "2g"
         preDexLibraries = false
     }
 
@@ -50,7 +51,7 @@ android {
             keyPassword "签名文件密码"
         }
         debug {
-//            storeFile file("debug.keystore")
+
         }
     }
 
@@ -91,6 +92,18 @@ android {
 //        exclude 'META-INF/DEPENDENCIES.txt'
 
     }
+
+//    configurations.all {//统一依赖
+//        resolutionStrategy.eachDependency { DependencyResolveDetails details ->
+//            def requested = details.requested
+//            if (requested.group == 'com.android.support') {
+//                if (!requested.name.startsWith("multidex")) {
+//                    //这里指定需要统一的依赖版本
+//                    details.useVersion getPropString("SUPPORT_VERSION")
+//                }
+//            }
+//        }
+//    }
 }
 
 dependencies {
@@ -113,7 +126,20 @@ dependencies {
     compile 'org.greenrobot:eventbus:3.0.0'
     compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
     compile 'io.reactivex.rxjava2:rxjava:2.1.5'
-    compile 'com.alibaba:fastjson:1.1.60.android'
+    compile 'com.jakewharton:disklrucache:2.0.2'
+    //glide
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+//    compile 'com.github.bumptech.glide:glide:4.4.0'
+//    compile 'com.github.bumptech.glide:compiler:4.4.0'
+    // 运行时权限检测
+    compile("com.github.hotchemi:permissionsdispatcher:3.0.1") {
+        // if you don't use android.app.Fragment you can exclude support for them
+        exclude module: "support-v13"
+    }
+    annotationProcessor "com.github.hotchemi:permissionsdispatcher-processor:3.0.1"
+
+    //cockroach 降低crash概略
+    compile 'com.wanjian:cockroach:0.0.5'
 
     // dependency module
     compile project(':baselibrary')

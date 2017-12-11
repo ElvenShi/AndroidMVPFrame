@@ -1,246 +1,490 @@
 [
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\alert_dialog_bg.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\alert_dialog_bg.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\alert_dialog_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\alert_dialog_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\timepicker_divider_line.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\timepicker_divider_line.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\timepicker_divider_line.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\timepicker_divider_line.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/Elven/.android/build-cache/e5187261623276109a50dc2aa6723e6cd0ea3a78/output/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\setting_clear_progressbar_bg.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\setting_clear_progressbar_bg.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable\\design_password_eye.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\setting_clear_progressbar_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\setting_clear_progressbar_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_password_eye.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/design_password_eye.xml",
+        "source": "/Users/Elven/.android/build-cache/e5187261623276109a50dc2aa6723e6cd0ea3a78/output/res/drawable/design_password_eye.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/input_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/input_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ms__arrow.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/ms__arrow.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gray_radius.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\gray_radius.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_refresh_loding.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\bga_refresh_loding.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ms__drawable.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/ms__drawable.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/wheel_val.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/wheel_val.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gray_radius.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\gray_radius.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_refresh_loding.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\bga_refresh_loding.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/notification_bg.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_bg.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\timepicker_sel_text_item.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\timepicker_sel_text_item.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/gray_radius.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/gray_radius.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\input_bg.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\input_bg.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\timepicker_sel_text_item.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\timepicker_sel_text_item.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\input_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\input_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\black_background.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\black_background.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/timepicker_sel_text_item.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/timepicker_sel_text_item.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\white_radius.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\white_radius.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\black_background.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\black_background.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_list_item_bg.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_list_item_bg.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\white_radius.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\white_radius.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ms__drawable.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ms__drawable.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_list_item_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_list_item_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ms__drawable.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ms__drawable.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/progress.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/progress.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/bga_refresh_loding.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/bga_refresh_loding.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/selector_list_item_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/selector_list_item_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\unread_round.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\unread_round.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/timepicker_divider_line.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/timepicker_divider_line.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ms__selector.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ms__selector.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\chat_status_connect_progress.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\chat_status_connect_progress.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\unread_round.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\unread_round.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ms__arrow.xml",
-        "source": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ms__arrow.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ms__selector.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ms__selector.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ms__arrow.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ms__arrow.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/setting_clear_progressbar_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/setting_clear_progressbar_bg.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/Elven/.android/build-cache/e5187261623276109a50dc2aa6723e6cd0ea3a78/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/chat_status_connect_progress.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/chat_status_connect_progress.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/alert_dialog_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/alert_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/ms__selector.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/ms__selector.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/black_background.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/black_background.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/Elven/.android/build-cache/e5187261623276109a50dc2aa6723e6cd0ea3a78/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/wheel_bg.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/wheel_bg.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\e8086800f391eb03c09d7982893b884e880d64c0\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/white_radius.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/white_radius.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\chat_status_connect_progress.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\chat_status_connect_progress.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/unread_round.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/bundles/debug/res/drawable/unread_round.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/Elven/.android/build-cache/c1c1a9d3682f90fc03238ca2f85745ce0d45a582/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/D:\\workspace\\demo\\AndroidMVPFrame\\AndroidMVPFrame\\customlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/C:\\Users\\Administrator\\.android\\build-cache\\ab74a86044fde5d9ae907f6e66cf62017399c49b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/Elven/Desktop/git repertory/github repertory/AndroidMVPFrame/AndroidMVPFrame/customlibrary/build/intermediates/res/merged/androidTest/debug/drawable/design_fab_background.xml",
+        "source": "/Users/Elven/.android/build-cache/e5187261623276109a50dc2aa6723e6cd0ea3a78/output/res/drawable/design_fab_background.xml"
     }
 ]

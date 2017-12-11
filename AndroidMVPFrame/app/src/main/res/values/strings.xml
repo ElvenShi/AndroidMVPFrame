@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">AndroidMVPFrame</string>
+
+    <!--权限相关-->
+    <string name="permission_tip">麦通不具备%s权限，暂无法正常使用。请在设置>应用管理>麦通中完成权限设置</string>
+    <string name="permission_tip_none">我们需要获取%1$s权限，%2$s。否则，您将无法正常使用App</string>
+    <string name="permission_tip_new">我们需要获取%1$s权限，%2$s。否则，您将无法正常使用App \n设置路径：设置>应用管理>App>权限</string>
+
+
+    <!--dialog start-->
+    <string name="loading">加载中...</string>
+    <string name="use_app_and_need_more">为了您能正常使用App，需要以下信息</string>
+    <string name="external_storage">存储空间</string>
+    <string name="next_option">下一步</string>
+    <string name="device_info">设备信息</string>
+    <string name="storage_persional_info">为您存储个人信息</string>
+    <string name="get_storage">获取存储空间</string>
+    <string name="get_device_info">获取设备信息</string>
+    <!--dialog end-->
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="goto_setting">去设置</string>
 </resources>
